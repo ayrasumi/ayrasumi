@@ -2,7 +2,7 @@
 
 I build Discord bots that remember who they're talking to.
 
-Most bots forget a member the moment the conversation ends. The ones I build don't — each person keeps their history, their preferences and their context across sessions and restarts.
+Most bots forget a member the moment the conversation ends. The ones I build don't. Each person keeps their history, their preferences and their context across sessions and restarts.
 
 ---
 
@@ -24,7 +24,7 @@ Pages and small tools with an assistant built in rather than bolted on afterward
 
 ## Open source
 
-**[ai-companion-bot](https://github.com/ayrasumi/ai-companion-bot)** — the reference implementation.
+**[ai-companion-bot](https://github.com/ayrasumi/ai-companion-bot)**: the reference implementation.
 MIT licensed, working demo included, no API lock-in: it speaks to any OpenAI-compatible endpoint.
 
 ---
@@ -33,9 +33,9 @@ MIT licensed, working demo included, no API lock-in: it speaks to any OpenAI-com
 
 Typical delivery is 2–4 days for a standard bot, 3–5 with image generation.
 
-- Services and pricing → [ko-fi.com/ayra](https://ko-fi.com/ayra)
-- Site → [ayra.ryukyu](https://ayra.ryukyu)
-- Email → [ayrasumi@proton.me](mailto:ayrasumi@proton.me)
+- Services and pricing: [ko-fi.com/ayra](https://ko-fi.com/ayra)
+- Site: [ayra.ryukyu](https://ayra.ryukyu)
+- Email: [ayrasumi@proton.me](mailto:ayrasumi@proton.me)
 
 If you're not sure what you need yet, describe the problem rather than the solution. Half the time the right answer is smaller than people expect.
 
