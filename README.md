@@ -1,3 +1,5 @@
+**English** | [Español](README.es.md)
+
 # Ayra
 
 I build Discord bots that remember who they're talking to.
@@ -31,7 +33,7 @@ MIT licensed, working demo included, no API lock-in: it speaks to any OpenAI-com
 
 ## Working together
 
-Typical delivery is 2–4 days for a standard bot, 3–5 with image generation.
+Typical delivery is 2 to 4 days for a standard bot, 3 to 5 with image generation.
 
 - Services and pricing: [ko-fi.com/ayra](https://ko-fi.com/ayra)
 - Site: [ayra.ryukyu](https://ayra.ryukyu)
