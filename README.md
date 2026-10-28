@@ -24,25 +24,31 @@ Per-user persistence in SQLite. A member comes back three weeks later and the bo
 
 ---
 
-## Services and prices
+## Services
 
-| Service | From |
-| --- | --- |
-| Landing page | $99 |
-| Business website | $199 |
-| Website with an integration | $399 |
-| AI integration into an existing site | $349 |
-| Mobile app (PWA) | $249 |
-| Desktop app | $299 |
-| Discord bot with memory | $69 |
-| Bot with local image generation | $129 |
-| Bot audit and fix | $35 |
-| Discord server setup | $40 |
-| Automation script | $60 |
-| Local image generation setup | $70 |
+**Web**
+- Landing page
+- Business website
+- Website with an integration
 
-Prices are in USD, per project, agreed in writing before I start. [ayra.ryukyu](https://ayra.ryukyu) shows them in your own currency.
+**Apps**
+- Mobile app (PWA)
+- Desktop app
 
+**AI**
+- AI integration into an existing site
+- Local image generation setup
+
+**Discord**
+- Bot with memory
+- Bot with local image generation
+- Bot audit and fix
+- Discord server setup
+
+**Automation**
+- Automation script
+
+Scope and date are agreed in writing before I start. The full list lives at [ayra.ryukyu](https://ayra.ryukyu).
 ---
 
 ## Open source

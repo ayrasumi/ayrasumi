@@ -24,25 +24,31 @@ Persistencia por usuario en SQLite. Un miembro vuelve tres semanas después y el
 
 ---
 
-## Servicios y precios
+## Servicios
 
-| Servicio | Desde |
-| --- | --- |
-| Landing page | 99 USD |
-| Sitio de negocio | 199 USD |
-| Sitio con una integración | 399 USD |
-| Integración de IA en un sitio existente | 349 USD |
-| App móvil instalable (PWA) | 249 USD |
-| App de escritorio | 299 USD |
-| Bot de Discord con memoria | 69 USD |
-| Bot con generación local de imágenes | 129 USD |
-| Auditoría y arreglo de bot | 35 USD |
-| Servidor de Discord | 40 USD |
-| Script de automatización | 60 USD |
-| Generación local de imágenes | 70 USD |
+**Web**
+- Landing page
+- Sitio de negocio
+- Sitio con una integración
 
-Precios en dólares, por proyecto, acordados por escrito antes de empezar. En [ayra.ryukyu](https://ayra.ryukyu) se ven en tu moneda.
+**Apps**
+- App móvil instalable (PWA)
+- App de escritorio
 
+**IA**
+- Integración de IA en un sitio existente
+- Generación local de imágenes
+
+**Discord**
+- Bot con memoria
+- Bot con generación local de imágenes
+- Auditoría y arreglo de bot
+- Servidor de Discord
+
+**Automatización**
+- Script de automatización
+
+El alcance y la fecha se acuerdan por escrito antes de empezar. La lista completa está en [ayra.ryukyu](https://ayra.ryukyu).
 ---
 
 ## Código abierto
