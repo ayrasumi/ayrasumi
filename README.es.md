@@ -49,6 +49,7 @@ Persistencia por usuario en SQLite. Un miembro vuelve tres semanas después y el
 - Script de automatización
 
 El alcance y la fecha se acuerdan por escrito antes de empezar. La lista completa está en [ayra.ryukyu](https://ayra.ryukyu).
+
 ---
 
 ## Código abierto

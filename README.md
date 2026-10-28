@@ -49,6 +49,7 @@ Per-user persistence in SQLite. A member comes back three weeks later and the bo
 - Automation script
 
 Scope and date are agreed in writing before I start. The full list lives at [ayra.ryukyu](https://ayra.ryukyu).
+
 ---
 
 ## Open source
