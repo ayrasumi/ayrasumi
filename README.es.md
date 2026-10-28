@@ -2,45 +2,65 @@
 
 # Ayra
 
-Construyo bots de Discord que se acuerdan de con quién están hablando.
+Desarrolladora independiente. Construyo sitios web, apps chicas y bots de Discord, y el código queda tuyo.
 
-La mayoría de los bots olvidan a un miembro en el momento en que termina la conversación. Los míos no. Cada persona conserva su historial, sus preferencias y su contexto entre sesiones y reinicios.
+Casi todo lo que vendo es una página que tiene que funcionar, una app que resuelve una tarea, o un bot que se acuerda de la gente que le habla. Sin agencia en medio y sin pago mensual por algo que ya pagaste.
 
 ---
 
 ## Qué hago
 
+**Sitios web hechos desde cero**
+HTML, CSS y JavaScript escritos a mano, o un framework solo cuando el proyecto lo justifica. Rápidos, adaptables y sin una pila de plugins que actualizar cada mes. Una landing, un sitio de negocio, o un sitio con una integración real detrás.
+
+**Apps**
+Una PWA instalable que se abre desde el navegador y funciona sin conexión, o un programa de Windows con instalador y actualizaciones. Las dos se entregan con código fuente y guía de compilación.
+
+**IA donde hace algo**
+Un asistente que responde con tus propios documentos, con límites de uso y una ruta de respaldo cuando el modelo falla. No un widget de chat pegado al final.
+
 **Bots de Discord con memoria real**
-Persistencia por usuario en SQLite. Un miembro vuelve tres semanas después y el bot todavía sabe qué preguntó, a qué juega y cómo le gusta que le respondan.
+Persistencia por usuario en SQLite. Un miembro vuelve tres semanas después y el bot todavía sabe qué preguntó y cómo le gusta que le respondan. La personalidad vive en un archivo de configuración, así que cambiar cómo habla nunca significa tocar código.
 
-**Personalidad que se configura, no se escribe en el código**
-El tono, el estilo y el comportamiento viven en un archivo JSON. Cambiar cómo habla el bot nunca significa tocar código, y puedes correr personalidades distintas por servidor desde la misma build.
+---
 
-**Generación de imágenes en tu propia tarjeta gráfica**
-SDXL corriendo local. Sin costo por imagen, sin límites de uso y sin que un tercero lea tus prompts. Unos 17 segundos para una imagen de 1024x1024 en 22 pasos con una tarjeta de gama media.
+## Servicios y precios
 
-**Integraciones web**
-Páginas y herramientas pequeñas con el asistente integrado, no pegado después.
+| Servicio | Desde |
+| --- | --- |
+| Landing page | 99 USD |
+| Sitio de negocio | 199 USD |
+| Sitio con una integración | 399 USD |
+| Integración de IA en un sitio existente | 349 USD |
+| App móvil instalable (PWA) | 249 USD |
+| App de escritorio | 299 USD |
+| Bot de Discord con memoria | 69 USD |
+| Bot con generación local de imágenes | 129 USD |
+| Auditoría y arreglo de bot | 35 USD |
+| Servidor de Discord | 40 USD |
+| Script de automatización | 60 USD |
+| Generación local de imágenes | 70 USD |
+
+Precios en dólares, por proyecto, acordados por escrito antes de empezar. En [ayra.ryukyu](https://ayra.ryukyu) se ven en tu moneda.
 
 ---
 
 ## Código abierto
 
-**[ai-companion-bot](https://github.com/ayrasumi/ai-companion-bot)**: la implementación de referencia.
-Licencia MIT, demo funcionando incluida, sin dependencia de un proveedor: habla con cualquier endpoint compatible con OpenAI.
+**[ai-companion-bot](https://github.com/ayrasumi/ai-companion-bot)**: la implementación de referencia del bot con memoria. Licencia MIT, demo funcionando incluida y sin dependencia de un proveedor: habla con cualquier endpoint compatible con OpenAI.
 
 ---
 
 ## Cómo trabajo
 
-La entrega típica es de 2 a 4 días para un bot estándar, y de 3 a 5 con generación de imágenes.
+La mayoría de los proyectos chicos salen en alrededor de una semana. La fecha se acuerda por escrito antes de empezar, e incluye treinta días de corrección de errores del alcance entregado.
 
-- Servicios y precios: [ko-fi.com/ayra](https://ko-fi.com/ayra)
 - Sitio: [ayra.ryukyu](https://ayra.ryukyu)
+- Servicios y precios: [ko-fi.com/ayra](https://ko-fi.com/ayra)
 - Correo: [ayrasumi@proton.me](mailto:ayrasumi@proton.me)
 
 Si todavía no sabes qué necesitas, descríbeme el problema en vez de la solución. La mitad de las veces la respuesta correcta es más chica de lo que uno espera.
 
 ---
 
-<sub>Node · Python · C++</sub>
+<sub>Node · Python · C++ · TypeScript</sub>

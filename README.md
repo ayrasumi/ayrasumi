@@ -2,45 +2,65 @@
 
 # Ayra
 
-I build Discord bots that remember who they're talking to.
+Independent developer. I build websites, small apps and Discord bots, and you keep the code.
 
-Most bots forget a member the moment the conversation ends. The ones I build don't. Each person keeps their history, their preferences and their context across sessions and restarts.
+Most of what I sell is one page that has to work, an app that solves one task, or a bot that remembers the people talking to it. No agency in the middle, and no monthly fee for something you already paid for.
 
 ---
 
 ## What I do
 
+**Websites built from scratch**
+Hand-written HTML, CSS and JavaScript, or a framework only when the project earns it. Fast, responsive, no plugin stack to update every month. A landing page, a business site, or a site with a working integration behind it.
+
+**Apps**
+An installable PWA that opens from the browser and works offline, or a Windows program with an installer and updates. Both ship with source code and a build guide.
+
+**AI where it does something**
+An assistant that answers from your own documents, with usage limits and a fallback path when the model fails. Not a chat widget bolted on at the end.
+
 **Discord bots with real memory**
-Per-user persistence in SQLite. A member comes back three weeks later and the bot still knows what they asked about, what they play, and how they like to be answered.
+Per-user persistence in SQLite. A member comes back three weeks later and the bot still knows what they asked about and how they like to be answered. Personality lives in a config file, so changing how it talks never means touching code.
 
-**Personality you configure, not hardcode**
-Tone, style and behaviour live in a JSON file. Changing how the bot talks never means touching code, and you can run different personalities per server from the same build.
+---
 
-**Image generation on your own GPU**
-SDXL running locally. No per-image API bill, no rate limits, and no third party reading your prompts. Roughly 17 seconds for a 1024×1024 at 22 steps on a mid-range card.
+## Services and prices
 
-**Web integrations**
-Pages and small tools with an assistant built in rather than bolted on afterwards.
+| Service | From |
+| --- | --- |
+| Landing page | $99 |
+| Business website | $199 |
+| Website with an integration | $399 |
+| AI integration into an existing site | $349 |
+| Mobile app (PWA) | $249 |
+| Desktop app | $299 |
+| Discord bot with memory | $69 |
+| Bot with local image generation | $129 |
+| Bot audit and fix | $35 |
+| Discord server setup | $40 |
+| Automation script | $60 |
+| Local image generation setup | $70 |
+
+Prices are in USD, per project, agreed in writing before I start. [ayra.ryukyu](https://ayra.ryukyu) shows them in your own currency.
 
 ---
 
 ## Open source
 
-**[ai-companion-bot](https://github.com/ayrasumi/ai-companion-bot)**: the reference implementation.
-MIT licensed, working demo included, no API lock-in: it speaks to any OpenAI-compatible endpoint.
+**[ai-companion-bot](https://github.com/ayrasumi/ai-companion-bot)**: the reference implementation of the memory bot. MIT licensed, working demo included, no API lock-in, it speaks to any OpenAI-compatible endpoint.
 
 ---
 
 ## Working together
 
-Typical delivery is 2 to 4 days for a standard bot, 3 to 5 with image generation.
+Most small projects ship in about a week. The date is agreed in writing before I start, and thirty days of bug fixes on the delivered scope are included.
 
-- Services and pricing: [ko-fi.com/ayra](https://ko-fi.com/ayra)
 - Site: [ayra.ryukyu](https://ayra.ryukyu)
+- Services and pricing: [ko-fi.com/ayra](https://ko-fi.com/ayra)
 - Email: [ayrasumi@proton.me](mailto:ayrasumi@proton.me)
 
-If you're not sure what you need yet, describe the problem rather than the solution. Half the time the right answer is smaller than people expect.
+If you are not sure what you need yet, describe the problem instead of the solution. Half the time the right answer is smaller than people expect.
 
 ---
 
-<sub>Node · Python · C++</sub>
+<sub>Node · Python · C++ · TypeScript</sub>
